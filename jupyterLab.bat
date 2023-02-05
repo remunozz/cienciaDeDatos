@@ -1,0 +1,2 @@
+cd C:\programmingDevelopingRaul\pythonProjects\cienciaDeDatos
+jupyter-lab
